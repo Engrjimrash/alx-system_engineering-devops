@@ -1,2 +1,2 @@
-#!/bin/basn
-chmop --reference=0lleh hell
+#!/bin/bash
+chmod --reference=olleh hello
